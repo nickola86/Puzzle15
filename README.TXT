@@ -1,0 +1,1 @@
+Launch the file puzzle/puzzle.html in a modern browser 
